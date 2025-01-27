@@ -3,8 +3,6 @@
 
 This repository contains the **Sales Analysis Dashboard** developed for tracking and analyzing key sales metrics. The dashboard provides insights into revenue, orders, and other important parameters across various dimensions.
 
-![Sales Analysis Dashboard](image-path-placeholder)
-
 ## Features
 
 1. **Revenue by Occasions**:
@@ -53,10 +51,4 @@ The dashboard includes filters for:
 
 This dashboard was created to help businesses understand their sales patterns and optimize strategies for better performance.
 
-## Screenshot
 
-![Sales Analysis Dashboard](image-path-placeholder)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
