@@ -1,5 +1,5 @@
 
-# Sales Analysis Dashboard
+# FNP Sales Analysis Dashboard
 
 This repository contains the **Sales Analysis Dashboard** developed for tracking and analyzing key sales metrics. The dashboard provides insights into revenue, orders, and other important parameters across various dimensions.
 
